@@ -30,6 +30,12 @@
 - in progress .....
 
 
+## 📈 Stats & Activity
+
+![Darrell's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rellbrb&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rellbrb&layout=compact&theme=radical)
+
+
 ## 📫 Reach Me
 
 - 📧 Email: drellbrb.wrk@gmail.com
