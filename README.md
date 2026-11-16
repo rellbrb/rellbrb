@@ -19,7 +19,7 @@
 
 - ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 - ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=mysql)
-- ![SQL](https://img.shields.io/badge/-Tableau-333333?style=flat&logo=mysql)
+- ![Tableau](https://img.shields.io/badge/-Tableau-333333?style=flat&logo=tableau)
 
 
 ## 📂 Featured Projects
