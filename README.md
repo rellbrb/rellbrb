@@ -18,11 +18,8 @@
 ## 🛠️ Tools & Languages
 
 - ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-   - [![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)](#)
-   - [![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)](#)
-   - [![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff)](#)
 - ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=mysql)
-- 
+- ![SQL](https://img.shields.io/badge/-Tableau-333333?style=flat&logo=mysql)
 
 
 ## 📂 Featured Projects
