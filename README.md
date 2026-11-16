@@ -19,7 +19,8 @@
 
 - ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 - ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=mysql)
-- ![Tableau](https://img.shields.io/badge/-Tableau-333333?style=flat&logo=tableau)
+- ![Tableau](https://custom-icon-badges.demolab.com/badge/Tableau-0176D3?logo=tableau&logoColor=fff)
+- [![R](https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white)]
 
 
 ## 📂 Featured Projects
