@@ -1,9 +1,8 @@
 
 # 👋 Hola!, I'm Darrell
 
-🎓 Biomedical Engineering Graduate (2:1, Dundee)  
-📊 Aspiring Data Scientist with interests in Healthtech, Finance, and AI  
-📍 Open to roles in Europe, Americas, and Asia  
+🎓  -   Msc Data Science and Analytics, BEng Biomedical Engineering  
+📊 Aspiring Data Scientist with interests in Healthtech, Finance, and AI   
 
 
 
@@ -23,17 +22,13 @@
    - [![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)](#)
    - [![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff)](#)
 - ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=mysql)
+- 
 
 
 ## 📂 Featured Projects
 
 - in progress .....
 
-
-## 📈 Stats & Activity
-
-![Darrell's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rellbrb&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rellbrb&layout=compact&theme=radical)
 
 
 ## 📫 Reach Me
